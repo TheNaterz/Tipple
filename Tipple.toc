@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Tipple
+## Notes: Queue tips for other players and send them from a mailbox.
+## Version: 0.1.0
+## SavedVariablesPerCharacter: TippleQueue, TippleOptions, TippleHistory
+
+Tipple.lua
